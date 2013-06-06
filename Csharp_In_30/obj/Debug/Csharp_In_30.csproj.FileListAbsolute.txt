@@ -1,0 +1,6 @@
+c:\users\terrancesmith\documents\visual studio 2012\Projects\Csharp_In_30\Csharp_In_30\bin\Debug\Csharp_In_30.exe.config
+c:\users\terrancesmith\documents\visual studio 2012\Projects\Csharp_In_30\Csharp_In_30\bin\Debug\Csharp_In_30.exe
+c:\users\terrancesmith\documents\visual studio 2012\Projects\Csharp_In_30\Csharp_In_30\bin\Debug\Csharp_In_30.pdb
+c:\users\terrancesmith\documents\visual studio 2012\Projects\Csharp_In_30\Csharp_In_30\obj\Debug\Csharp_In_30.csprojResolveAssemblyReference.cache
+c:\users\terrancesmith\documents\visual studio 2012\Projects\Csharp_In_30\Csharp_In_30\obj\Debug\Csharp_In_30.exe
+c:\users\terrancesmith\documents\visual studio 2012\Projects\Csharp_In_30\Csharp_In_30\obj\Debug\Csharp_In_30.pdb
