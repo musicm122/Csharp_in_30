@@ -4,3 +4,15 @@ c:\users\terrancesmith\documents\visual studio 2012\Projects\Csharp_In_30\Csharp
 c:\users\terrancesmith\documents\visual studio 2012\Projects\Csharp_In_30\Csharp_In_30\obj\Debug\Csharp_In_30.csprojResolveAssemblyReference.cache
 c:\users\terrancesmith\documents\visual studio 2012\Projects\Csharp_In_30\Csharp_In_30\obj\Debug\Csharp_In_30.exe
 c:\users\terrancesmith\documents\visual studio 2012\Projects\Csharp_In_30\Csharp_In_30\obj\Debug\Csharp_In_30.pdb
+C:\Users\terrancesmith\Documents\Visual Studio 2012\Projects\Csharp_In_30_Solution\Csharp_In_30\bin\Debug\Csharp_In_30.exe.config
+C:\Users\terrancesmith\Documents\Visual Studio 2012\Projects\Csharp_In_30_Solution\Csharp_In_30\obj\Debug\Csharp_In_30.exe
+C:\Users\terrancesmith\Documents\Visual Studio 2012\Projects\Csharp_In_30_Solution\Csharp_In_30\obj\Debug\Csharp_In_30.pdb
+C:\Users\terrancesmith\Documents\Visual Studio 2012\Projects\Csharp_In_30_Solution\Csharp_In_30\bin\Debug\Csharp_In_30.exe
+C:\Users\terrancesmith\Documents\Visual Studio 2012\Projects\Csharp_In_30_Solution\Csharp_In_30\bin\Debug\Csharp_In_30.pdb
+C:\Users\terrancesmith\Documents\Visual Studio 2012\Projects\Csharp_In_30_Solution\Csharp_In_30\obj\Debug\Csharp_In_30.csprojResolveAssemblyReference.cache
+C:\Users\terrancesmith\Google Drive\Prog Projects\Csharp_In_30_Solution\Csharp_In_30\bin\Debug\Csharp_In_30.exe.config
+C:\Users\terrancesmith\Google Drive\Prog Projects\Csharp_In_30_Solution\Csharp_In_30\obj\Debug\Csharp_In_30.exe
+C:\Users\terrancesmith\Google Drive\Prog Projects\Csharp_In_30_Solution\Csharp_In_30\obj\Debug\Csharp_In_30.pdb
+C:\Users\terrancesmith\Google Drive\Prog Projects\Csharp_In_30_Solution\Csharp_In_30\bin\Debug\Csharp_In_30.exe
+C:\Users\terrancesmith\Google Drive\Prog Projects\Csharp_In_30_Solution\Csharp_In_30\bin\Debug\Csharp_In_30.pdb
+C:\Users\terrancesmith\Google Drive\Prog Projects\Csharp_In_30_Solution\Csharp_In_30\obj\Debug\Csharp_In_30.csprojResolveAssemblyReference.cache
